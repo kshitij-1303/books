@@ -1,3 +1,28 @@
 {
-  "books": []
+  "books": [
+    {
+      "title": "lemon juice",
+      "id": 3
+    },
+    {
+      "title": "Dark Tower",
+      "id": 4
+    },
+    {
+      "title": "Rich dad poor dad",
+      "id": 5
+    },
+    {
+      "title": "Thinking fast and slow",
+      "id": 6
+    },
+    {
+      "title": "Percy Jackson",
+      "id": 7
+    },
+    {
+      "title": "Dark Tower",
+      "id": 9
+    }
+  ]
 }
